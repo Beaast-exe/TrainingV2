@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TrainingV2:jar">
+    <output-path>D:/Développement/Développement/OniziacReborn/3/plugins</output-path>
+    <root id="archive" name="TrainingV2.jar">
+      <element id="module-output" name="TrainingV2" />
+    </root>
+  </artifact>
+</component>

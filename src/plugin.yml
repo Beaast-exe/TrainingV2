@@ -1,0 +1,19 @@
+name: Training
+version: 1.0
+author: Weswaas
+main: com.weswaas.training.Main
+commands:
+  kit:
+  duel:
+  accept:
+  elo:
+  inv:
+  rankeds:
+    aliases: [ranked]
+  status:
+  spec:
+    aliases: [spectator]
+  whitelist:
+    aliases: [wl]
+  teleport:
+    aliases: [tp]
